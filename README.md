@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="./assets/cobol-mainframe-terminal.gif"
+       alt="COBOL Mainframe Performance Lab">
+</p>
+
+
+
+
 # COBOL MAINFRAME PERFORMANCE LAB
 
 <p align="center">
