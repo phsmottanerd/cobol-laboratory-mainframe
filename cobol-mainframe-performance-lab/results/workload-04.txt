@@ -1,0 +1,13 @@
+WORKLOAD-04 - BATCH I/O - 1 MILLION
+Records Read: 1000000
+Records Written: 1000000
+User CPU: 0.32 s
+System CPU: 0.00 s
+Elapsed: 0.33 s
+CPU: 98%
+Max RSS: 5136 KB
+Major Page Faults: 0
+Minor Page Faults: 229
+Filesystem Inputs: 0
+Filesystem Outputs: 13456
+Exit Status: 0

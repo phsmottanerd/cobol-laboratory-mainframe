@@ -1,0 +1,13 @@
+WORKLOAD-03 - BATCH I/O
+Records Read: 100000
+Records Written: 100000
+User CPU: 0.03 s
+System CPU: 0.00 s
+Elapsed: 0.05 s
+CPU: 62%
+Max RSS: 5176 KB
+Major Page Faults: 0
+Minor Page Faults: 232
+Filesystem Inputs: 48
+Filesystem Outputs: 1152
+Exit Status: 0

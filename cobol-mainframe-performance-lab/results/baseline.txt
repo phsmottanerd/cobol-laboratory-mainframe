@@ -1,0 +1,11 @@
+BASELINE - PERFORMANCE LAB
+Records: 1000000
+User CPU: 0.09 s
+System CPU: 0.00 s
+Elapsed: 0.09 s
+CPU: 100%
+Max RSS: 4944 KB
+Page Faults Major: 0
+Swaps: 0
+Filesystem I/O: 0
+Exit Status: 0

@@ -1,0 +1,13 @@
+WORKLOAD-02 - 50 MILLION
+Records: 50000000
+User CPU: 4.82 s
+System CPU: 0.00 s
+Elapsed: 4.84 s
+CPU: 99%
+Max RSS: 5008 KB
+Major Page Faults: 0
+Minor Page Faults: 227
+Swaps: 0
+Filesystem Inputs: 48
+Filesystem Outputs: 0
+Exit Status: 0
